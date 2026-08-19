@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neetikacodes.github.io/Quantum-digest/sitemap.xml
