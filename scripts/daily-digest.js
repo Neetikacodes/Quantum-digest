@@ -12,14 +12,20 @@ async function fetchLatestPaper() {
   const res = await fetch(url);
   const xml = await res.text();
 
-  const title = (xml.match(/<title>([\s\S]*?)<\/title>/g) || [])[1] || '';
-  const summaryMatch = xml.match(/<summary>([\s\S]*?)<\/summary>/);
-  const linkMatch = xml.match(/<id>(http:\/\/arxiv\.org\/abs\/[^<]+)<\/id>/);
+  const entryMatch = xml.match(/<entry>([\s\S]*?)<\/entry>/);
+  if (!entryMatch) {
+    return { title: '', abstract: '', link: '' };
+  }
+  const entryXml = entryMatch[1];
+
+  const titleMatch = entryXml.match(/<title>([\s\S]*?)<\/title>/);
+  const summaryMatch = entryXml.match(/<summary>([\s\S]*?)<\/summary>/);
+  const linkMatch = entryXml.match(/<id>(http:\/\/arxiv\.org\/abs\/[^<]+)<\/id>/);
 
   return {
-    title: title.replace(/<\/?title>/g, '').replace(/\s+/g, ' ').trim(),
-    abstract: (summaryMatch ? summaryMatch[1] : '').replace(/\s+/g, ' ').trim(),
-    link: linkMatch ? linkMatch[1] : ''
+    title: titleMatch ? titleMatch[1].replace(/\s+/g, ' ').trim() : '',
+    abstract: summaryMatch ? summaryMatch[1].replace(/\s+/g, ' ').trim() : '',
+    link: linkMatch ? linkMatch[1].trim() : ''
   };
 }
 
@@ -36,6 +42,12 @@ async function summarizeWithGemini(paper) {
     })
   });
   const data = await res.json();
+
+  if (!data.candidates || !data.candidates[0]) {
+    console.log('Gemini response did not contain candidates:', JSON.stringify(data));
+    return { summary: paper.abstract.slice(0, 200), tag: 'quantum' };
+  }
+
   const raw = data.candidates[0].content.parts[0].text.replace(/```json|```/g, '').trim();
   try {
     return JSON.parse(raw);
@@ -50,10 +62,12 @@ async function main() {
     console.log('No paper found, skipping.');
     return;
   }
+  console.log('Fetched paper:', paper.title);
 
   let articles = [];
   if (fs.existsSync(ARTICLES_PATH)) {
-    articles = JSON.parse(fs.readFileSync(ARTICLES_PATH, 'utf-8'));
+    const raw = fs.readFileSync(ARTICLES_PATH, 'utf-8').trim();
+    articles = raw ? JSON.parse(raw) : [];
   }
 
   const alreadyExists = articles.some(a => a.link === paper.link);
