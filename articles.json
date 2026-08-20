@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1787206131284",
+    "title": "Techniques for Quantum-Computing-Aided Algorithmic Composition: Experiments in rhythm, timbre, harmony, and space [Software]",
+    "summary": "software for the paper \"Techniques for Quantum-Computing-Aided Algorithmic Composition: Experiments in rhythm, timbre, harmony, and space\"",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22003968",
+    "date": "2026-08-20T06:08:51.284Z"
+  },
+  {
     "id": "e1787205309961",
     "title": "Spin dynamics and ortho–para conversion in $H_{2}O$ during the phase transition from gas to solid in external magnetic fields",
     "summary": "The spin dynamics of water ice in the presence of external magnetic fields are investigated. The employed model is based on the approach introduced by Buntkowsky et al. [Z. Phys. Chem. 222, 1049 (2008",
