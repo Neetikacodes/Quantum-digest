@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1787368894247",
+    "title": "Encryption in Compute Networks: A Systematic Literature Review of Cryptographic Protocols, Encrypted Traffic Analysis, and Post-Quantum Migration",
+    "summary": "Abstract Encryption has become the primary mechanism by which compute networks protect the confidentiality, integrity, and authenticity of data in transit and at rest, with recent measurements indicat",
+    "tag": "quantum",
+    "link": "https://doi.org/10.55041/isjem08542",
+    "date": "2026-08-22T03:21:34.247Z"
+  },
+  {
     "id": "e1787206131284",
     "title": "Techniques for Quantum-Computing-Aided Algorithmic Composition: Experiments in rhythm, timbre, harmony, and space [Software]",
     "summary": "software for the paper \"Techniques for Quantum-Computing-Aided Algorithmic Composition: Experiments in rhythm, timbre, harmony, and space\"",
