@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1787455823981",
+    "title": "Lightweight Multi-Party Quantum Secure Scalar Product Protocol for Privacy-Preserving Collaborative Computing",
+    "summary": "Abstract With the rapid development of distributed collaborative computing, privacy leakage risks in multi-source data joint analysis are increasing, and classical secure scalar product protocols are ",
+    "tag": "quantum",
+    "link": "https://doi.org/10.1088/1402-4896/ae9ced",
+    "date": "2026-08-23T03:30:23.981Z"
+  },
+  {
     "id": "e1787368894247",
     "title": "Encryption in Compute Networks: A Systematic Literature Review of Cryptographic Protocols, Encrypted Traffic Analysis, and Post-Quantum Migration",
     "summary": "Abstract Encryption has become the primary mechanism by which compute networks protect the confidentiality, integrity, and authenticity of data in transit and at rest, with recent measurements indicat",
