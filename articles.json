@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1787715235333",
+    "title": "Quantum Computing for Logistics Optimization: Annealing in ULD Configuration and Disruption",
+    "summary": "Quantum computing offers transformative potential for addressing complex combinatorial optimization challenges in logistics and supply chain management. This paper presents a comprehensive investigati",
+    "tag": "quantum",
+    "link": "https://doi.org/10.55041/ijcope.v2i8.196",
+    "date": "2026-08-26T03:33:55.333Z"
+  },
+  {
     "id": "e1787628403904",
     "title": "Strengthening Classical Cryptographic Algorithms Against Quantum Computing Threats: A Practical Transition Framework for Post-Quantum Security",
     "summary": "The emergence of large-scale quantum computing presents a fundamental challenge to widely deployed classical cryptographic systems.Public-key algorithms such as RSA and Elliptic Curve Cryptography (EC",
