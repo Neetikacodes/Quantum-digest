@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1787835663598",
+    "title": "Open Quantum: An Open Infrastructure Layer for Quantum Computing",
+    "summary": "Open Quantum is a platform that provides researchers and developers with access to quantum processing units (QPUs) from multiple hardware providers through a unified API and native integrations with w",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22103261",
+    "date": "2026-08-27T13:01:03.598Z"
+  },
+  {
     "id": "e1787715235333",
     "title": "Quantum Computing for Logistics Optimization: Annealing in ULD Configuration and Disruption",
     "summary": "Quantum computing offers transformative potential for addressing complex combinatorial optimization challenges in logistics and supply chain management. This paper presents a comprehensive investigati",
