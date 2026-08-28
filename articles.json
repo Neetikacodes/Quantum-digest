@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1787927505236",
+    "title": "Topological Quantum Computing: Braid Groups and Majorana 1 Milestone — E8 Intelligence Research",
+    "summary": "FINDING: Topological quantum computing leverages non-Abelian anyons and braid group representations for inherently fault-tolerant quantum gates, with Microsoft's Majorana 1 chip as a physical mileston",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22122205",
+    "date": "2026-08-28T14:31:45.236Z"
+  },
+  {
     "id": "e1787835663598",
     "title": "Open Quantum: An Open Infrastructure Layer for Quantum Computing",
     "summary": "Open Quantum is a platform that provides researchers and developers with access to quantum processing units (QPUs) from multiple hardware providers through a unified API and native integrations with w",
