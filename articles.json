@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1787995124090",
+    "title": "Quantum computing in finance: a literature review and future directions for trustworthy financial AI",
+    "summary": "The paper provides an integrated literature review of recent scientific publications on quantum computing in finance and identifies promising directions for future research on the subject. The review ",
+    "tag": "quantum",
+    "link": "https://doi.org/10.3389/frai.2026.1929828",
+    "date": "2026-08-29T09:18:44.090Z"
+  },
+  {
     "id": "e1787927505236",
     "title": "Topological Quantum Computing: Braid Groups and Majorana 1 Milestone — E8 Intelligence Research",
     "summary": "FINDING: Topological quantum computing leverages non-Abelian anyons and braid group representations for inherently fault-tolerant quantum gates, with Microsoft's Majorana 1 chip as a physical mileston",
