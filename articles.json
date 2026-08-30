@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1788078569647",
+    "title": "The Role of Quantum Computing in High-Performance Computing: Algorithms, Integration, and Current Limitations",
+    "summary": "High-performance computing has relied on classical architectures to attack problems demanding large scale computation. Quantum computing offers a different model, and the question of how the two relat",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22151078",
+    "date": "2026-08-30T08:29:29.647Z"
+  },
+  {
     "id": "e1787995124090",
     "title": "Quantum computing in finance: a literature review and future directions for trustworthy financial AI",
     "summary": "The paper provides an integrated literature review of recent scientific publications on quantum computing in finance and identifies promising directions for future research on the subject. The review ",
