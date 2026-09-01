@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1788249435333",
+    "title": "The Moduli Degeneracy, Part 3: Computation without Overhead, a Guide for Quantum O(1) Computing Infrastructures",
+    "summary": "Abstract To fully grasp the magnitude of processing a 2,000,000-decimal-digit modulus in under 100 milliseconds, it helps to step back and look at the physical realities of modern computation. We are ",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22168983",
+    "date": "2026-09-01T07:57:15.333Z"
+  },
+  {
     "id": "e1788078569647",
     "title": "The Role of Quantum Computing in High-Performance Computing: Algorithms, Integration, and Current Limitations",
     "summary": "High-performance computing has relied on classical architectures to attack problems demanding large scale computation. Quantum computing offers a different model, and the question of how the two relat",
