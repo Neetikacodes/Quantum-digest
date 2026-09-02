@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1788333395467",
+    "title": "Qubits of a Feather, Flawed Together: A Historical Development Review of Quantum Computing Architectures Compared",
+    "summary": "This article presents a narrative review of Quantum Computing Architectures Compared in the context of Physics. The literature on this topic has expanded substantially over recent decades, yet it rema",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22216688",
+    "date": "2026-09-02T07:16:35.467Z"
+  },
+  {
     "id": "e1788249435333",
     "title": "The Moduli Degeneracy, Part 3: Computation without Overhead, a Guide for Quantum O(1) Computing Infrastructures",
     "summary": "Abstract To fully grasp the magnitude of processing a 2,000,000-decimal-digit modulus in under 100 milliseconds, it helps to step back and look at the physical realities of modern computation. We are ",
