@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1788420010289",
+    "title": "How to Build a Controlled AI Assistant for Quantum Computing",
+    "summary": "An architectural approach in which free-form dialogue is turned into a controlled computational workflow: the lifecycle stage determines the AI's goal, the context available to it, and the set of tool",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22236898",
+    "date": "2026-09-03T07:20:10.289Z"
+  },
+  {
     "id": "e1788333395467",
     "title": "Qubits of a Feather, Flawed Together: A Historical Development Review of Quantum Computing Architectures Compared",
     "summary": "This article presents a narrative review of Quantum Computing Architectures Compared in the context of Physics. The literature on this topic has expanded substantially over recent decades, yet it rema",
