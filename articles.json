@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1788766192212",
+    "title": "Dynamic Topology Transformations for Quantum Computing Acceleration",
+    "summary": "This paper explores the potential of dynamic topology transformations as a significant acceleration mechanism in quantum computing. Traditional quantum algorithms often suffer from exponential scaling",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22327434",
+    "date": "2026-09-07T07:29:52.212Z"
+  },
+  {
     "id": "e1788591862992",
     "title": "(Short Paper16) Super-Intercellular Synchronization and High Light Adaptation in 4-Cell Green Alga Tetrabaena: A Spatially Extended Quantum Computing Model via a 4-QPU Array",
     "summary": "Tetrabaena socialis, a four-celled colonial green alga arranged in a planar square, exhibits hydrodynamically synchronized swimming despite each cell possessing autonomous flagella. Furthermore, unlik",
