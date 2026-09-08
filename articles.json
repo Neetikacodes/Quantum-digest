@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1788852200489",
+    "title": "Core Claim: Demonstrate a non-linear self-organizing matrix in quantum computing that exhibits computational capabilities exceeding those of classical matrices, exploring the potential of quantum computing algorithms.",
+    "summary": "Quantum computing offers the potential for revolutionary computational capabilities, but harnessing this potential requires innovative approaches to algorithm design. This paper investigates a novel q",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22522751",
+    "date": "2026-09-08T07:23:20.489Z"
+  },
+  {
     "id": "e1788766192212",
     "title": "Dynamic Topology Transformations for Quantum Computing Acceleration",
     "summary": "This paper explores the potential of dynamic topology transformations as a significant acceleration mechanism in quantum computing. Traditional quantum algorithms often suffer from exponential scaling",
