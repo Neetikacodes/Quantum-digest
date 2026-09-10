@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1789025287676",
+    "title": "Quantified convergence of general homodyne measurements with applications to continuous variable quantum computing",
+    "summary": "Abstract In [Physical Review A 112 #063708 (2025)] we introduced broadband pulsed (BBP) homodyne measurements as a generalization of standard pulsed homodyne quadrature measurements. BBP can take adva",
+    "tag": "quantum",
+    "link": "https://doi.org/10.1088/1751-8121/aea45c",
+    "date": "2026-09-10T07:28:07.676Z"
+  },
+  {
     "id": "e1788927554187",
     "title": "A System Architecture for Low Latency Multiprogramming Quantum Computing",
     "summary": "As quantum systems scale, multiprogramming quantum computing (MPQC) provides a practical way to improve device utilization and throughput. However, because quantum executables are device-dependent, no",
