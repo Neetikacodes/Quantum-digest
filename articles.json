@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1789111577102",
+    "title": "Quantum circuit-based learning models: bridging quantum computing and machine learning",
+    "summary": "Abstract Machine Learning (ML) has been widely applied across numerous domains due to its ability to automatically identify informative patterns from data for various tasks. The availability of large-",
+    "tag": "quantum",
+    "link": "https://doi.org/10.1007/s10462-026-11686-4",
+    "date": "2026-09-11T07:26:17.102Z"
+  },
+  {
     "id": "e1789025287676",
     "title": "Quantified convergence of general homodyne measurements with applications to continuous variable quantum computing",
     "summary": "Abstract In [Physical Review A 112 #063708 (2025)] we introduced broadband pulsed (BBP) homodyne measurements as a generalization of standard pulsed homodyne quadrature measurements. BBP can take adva",
