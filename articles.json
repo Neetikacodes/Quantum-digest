@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1789197501170",
+    "title": "NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing (Artifact)",
+    "summary": "NAQsim is an architecture-level simulation framework for fault-tolerant quantum computing with neutral-atom qubits. It models quantum-circuit compilation and architecture execution to evaluate executi",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.21542758",
+    "date": "2026-09-12T07:18:21.170Z"
+  },
+  {
     "id": "e1789111577102",
     "title": "Quantum circuit-based learning models: bridging quantum computing and machine learning",
     "summary": "Abstract Machine Learning (ML) has been widely applied across numerous domains due to its ability to automatically identify informative patterns from data for various tasks. The availability of large-",
