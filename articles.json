@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1789545080800",
+    "title": "Ultrametric Quantum Computing: Tree-Topology Error Correction",
+    "summary": "The observation that positional notation carries a native ultrametric tree structure extends into quantum computing through the tensor-product architecture of qubit registers. We formalize three these",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.21046992",
+    "date": "2026-09-16T07:51:20.800Z"
+  },
+  {
     "id": "e1789459120089",
     "title": "From Probabilistic Cloud to Python — A Control-Layer Language for Quantum Computing and Hardware Validation",
     "summary": "The probabilistic cloud state machine (PCSM) theory [1] formalises the classical control layer of quantum computing as a geometric model over the space of stable probability distributions. This paper ",
