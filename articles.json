@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1789890794529",
+    "title": "Modular fault-tolerant quantum computing on a non-CSS code",
+    "summary": "The repository is supporting the publication \"Modular fault-tolerant quantum computing on a non-CSS code\". It includes the data shown in the manuscript, code to analyze the experimental data and gener",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22796458",
+    "date": "2026-09-20T07:53:14.529Z"
+  },
+  {
     "id": "e1789716845845",
     "title": "WP-184 — From your ingested science, what is the newest work on quantum computing?",
     "summary": "From your ingested science, what is the newest work on quantum computing?",
