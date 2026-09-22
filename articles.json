@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1790063659155",
+    "title": "Radix Economy and Balanced Ternary Microarchitectures: Resolving the Memory Wall in Line-Rate Post-Quantum Consensus and Nanoscale Computing",
+    "summary": "Radix Economy and Balanced Ternary Microarchitectures: Resolving the Memory Wall in Line-Rate Post-Quantum Consensus and Nanoscale Computing By Justin Grimm (2026) Abstract:Post-quantum cryptographic ",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22851921",
+    "date": "2026-09-22T07:54:19.155Z"
+  },
+  {
     "id": "e1789890794529",
     "title": "Modular fault-tolerant quantum computing on a non-CSS code",
     "summary": "The repository is supporting the publication \"Modular fault-tolerant quantum computing on a non-CSS code\". It includes the data shown in the manuscript, code to analyze the experimental data and gener",
