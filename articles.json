@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1790323600375",
+    "title": "MagicFlow: Breaking the Magic State Bottleneck for Scalable Fault-Tolerant Quantum Computing — Artifact Evaluation",
+    "summary": "This artifact contains the code and inputs needed to reproduce selected experimental results from the MagicFlow paper. It runs fresh magic-state cultivation, factory, utilization, routing, circuit-lev",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.22927049",
+    "date": "2026-09-25T08:06:40.375Z"
+  },
+  {
     "id": "e1790235939237",
     "title": "Quantum Cybernesis: Seed IQ-Enabled Higher-Order Intelligence - An Intelligence That Recognizes the Limits of Its Own Representation, Reforms It, Computes Beyond Classical Reach with Quantum, and Continues Discovering From the Result Recursively - Surpassing AlphaFold, AlphaEvolve, and Dream-RSI Across Molecular Biology and Mathematics",
     "summary": "Abstract: Classical AI answers from inside a representation fixed before the question arrives. What that representation can express, the system can answer; what lies outside it, no amount of parameter",
