@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1790585635064",
+    "title": "イオントラップ型量子計算における光インターコネクト脆弱性の克服と「スーパーRTO」動的実時間最適化アーキテクチャ / Mitigating Optical Interconnect Vulnerabilities in Trapped-Ion Quantum Computing via Super-RTO Dynamic Real-Time Optimization Architecture",
+    "summary": "English Abstract Scaling trapped-ion quantum computers beyond single-chip traps requires modular architectures linked by photonic optical interconnects. However, inter-module photonic links suffer fro",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.23003754",
+    "date": "2026-09-28T08:53:55.064Z"
+  },
+  {
     "id": "e1790497755876",
     "title": "Quantum Computing Under Quantum-Geometry Dynamics",
     "summary": "Quantum computing's most consequential claim — that quantum computers provide exponential computational speedup over classical computation — rests on a specific physical assumption: that superposition",
