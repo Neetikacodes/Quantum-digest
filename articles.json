@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1791016108691",
+    "title": "Modular Quantum Computing with Superconducting Qubits",
+    "summary": "Superconducting qubits provide a promising approach to large-scale fault-tolerant quantum computing. However, as superconducting quantum processors scale out of the NISQ era, monolithic architectures ",
+    "tag": "quantum",
+    "link": "https://doi.org/10.6082/w2x2c-m9m65",
+    "date": "2026-10-03T08:28:28.691Z"
+  },
+  {
     "id": "e1790931113865",
     "title": "Two-way quantum computing across physical platforms Experimental foundations, stimulated emission and programmable receiving operations",
     "summary": "Mainly Astra, with long discussion chain with more critical Fable 5.1, Gemini Pro 3.1",
