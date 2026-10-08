@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1791451306552",
+    "title": "Modular Quantum Computing with Superconducting Qubits",
+    "summary": "Superconducting qubits provide a promising approach to large-scale fault-tolerant quantum computing. However, as superconducting quantum processors scale out of the NISQ era, monolithic architectures ",
+    "tag": "quantum",
+    "link": "https://doi.org/10.6082/5jz1r-d2s94",
+    "date": "2026-10-08T09:21:46.552Z"
+  },
+  {
     "id": "e1791016108691",
     "title": "Modular Quantum Computing with Superconducting Qubits",
     "summary": "Superconducting qubits provide a promising approach to large-scale fault-tolerant quantum computing. However, as superconducting quantum processors scale out of the NISQ era, monolithic architectures ",
