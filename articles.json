@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1792655181474",
+    "title": "THE EL-RAKHAWI DOCTRINE OF ADVANCED COMPUTING ENCYCLOPEDIA OF QUANTUM INTELLIGENCE AND SCIENTIFIC COMPUTING From AI-Native Operating Systems to Hybrid Quantum-Classical Architectures - A Unified Framework for the Computational Singularity",
+    "summary": "This paper introduces a comprehensive framework that combines artificial intelligence, high-performance computing, and quantum systems into a single operating model. It also establishes fundamental physical speed limits for any computing technology while outlining how to protect these innovations under patent law.",
+    "tag": "hybrid architectures",
+    "link": "https://doi.org/10.5281/zenodo.23494754",
+    "date": "2026-10-22T07:46:21.474Z"
+  },
+  {
     "id": "e1791451306552",
     "title": "Modular Quantum Computing with Superconducting Qubits",
     "summary": "Superconducting qubits provide a promising approach to large-scale fault-tolerant quantum computing. However, as superconducting quantum processors scale out of the NISQ era, monolithic architectures ",
