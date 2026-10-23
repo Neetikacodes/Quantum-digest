@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1792741454672",
+    "title": "Unveiling Surface‐Vacancy‐Mediated Negative Photoconductivity in γ‐Ga 2 O 3 Quantum Dots for Solar‐Blind Inhibitory Optoelectronic Synapses and In‐Sensor Computing",
+    "summary": "Researchers developed tiny semiconductor dots that decrease their electrical conductivity when exposed to deep ultraviolet light, mimicking the inhibitory signaling of biological neurons. This material enables advanced ultraviolet sensors that can accurately recognize fingerprints even in noisy conditions without needing data preprocessing.",
+    "tag": "neuromorphic hardware",
+    "link": "https://doi.org/10.1002/lpor.72112",
+    "date": "2026-10-23T07:44:14.672Z"
+  },
+  {
     "id": "e1792655181474",
     "title": "THE EL-RAKHAWI DOCTRINE OF ADVANCED COMPUTING ENCYCLOPEDIA OF QUANTUM INTELLIGENCE AND SCIENTIFIC COMPUTING From AI-Native Operating Systems to Hybrid Quantum-Classical Architectures - A Unified Framework for the Computational Singularity",
     "summary": "This paper introduces a comprehensive framework that combines artificial intelligence, high-performance computing, and quantum systems into a single operating model. It also establishes fundamental physical speed limits for any computing technology while outlining how to protect these innovations under patent law.",
