@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1792826778905",
+    "title": "Covariant Bitemporal Geometrodynamics (CBG): Bitemporal Holonomic Quantum Computing, H_{t1} ⊗ H_{t2} Decoherence Shelving, and 145.86 K Cuprate QPU Architecture",
+    "summary": "This paper proposes a new quantum computing architecture that uses high-temperature superconductors to operate at liquid-nitrogen temperatures instead of extreme near-absolute-zero conditions. It also introduces a method to hide quantum information in an orthogonal dimension, dramatically extending how long qubits can maintain their state without errors.",
+    "tag": "hardware",
+    "link": "https://doi.org/10.5281/zenodo.23556656",
+    "date": "2026-10-24T07:26:18.905Z"
+  },
+  {
     "id": "e1792741454672",
     "title": "Unveiling Surface‐Vacancy‐Mediated Negative Photoconductivity in γ‐Ga 2 O 3 Quantum Dots for Solar‐Blind Inhibitory Optoelectronic Synapses and In‐Sensor Computing",
     "summary": "Researchers developed tiny semiconductor dots that decrease their electrical conductivity when exposed to deep ultraviolet light, mimicking the inhibitory signaling of biological neurons. This material enables advanced ultraviolet sensors that can accurately recognize fingerprints even in noisy conditions without needing data preprocessing.",
