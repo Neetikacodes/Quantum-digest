@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1793177103766",
+    "title": "Multi-client Delegated Verifiable Blind Quantum Computing",
+    "summary": "This research introduces a method that allows multiple people to securely run quantum computing tasks on remote, untrusted quantum machines while keeping their private data completely hidden from both the service providers and each other. It also includes built-in checks to ensure the remote computers actually performed the calculations correctly.",
+    "tag": "cloud security",
+    "link": "https://doi.org/10.1145/3839338.3857244",
+    "date": "2026-10-28T08:45:03.766Z"
+  },
+  {
     "id": "e1793088217195",
     "title": "Sovereign Intelligence Beyond Current Architectures: Dedicated Superintelligence and Hybrid Quantum Computing for National Intelligence Analysis",
     "summary": "This paper proposes a conceptual framework for using advanced artificial intelligence and quantum computing to help national intelligence agencies analyze vast amounts of data and counter threats. It emphasizes strict human oversight, modular system design, and rigorous testing before adopting any future technologies.",
