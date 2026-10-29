@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1793263280261",
+    "title": "Quantum Formalism and Quantum Computing: What Can They Actually Solve in Economics and Finance?",
+    "summary": "While mathematical techniques borrowed from quantum physics are already useful on regular computers for finance, true quantum computers have not yet proven they can beat standard computers at economic tasks. However, future quantum computers could still pose an earlier threat to financial cybersecurity than they do to complex calculations like pricing financial derivatives.",
+    "tag": "quantum finance",
+    "link": "https://doi.org/10.5281/zenodo.23697758",
+    "date": "2026-10-29T08:41:20.261Z"
+  },
+  {
     "id": "e1793177103766",
     "title": "Multi-client Delegated Verifiable Blind Quantum Computing",
     "summary": "This research introduces a method that allows multiple people to securely run quantum computing tasks on remote, untrusted quantum machines while keeping their private data completely hidden from both the service providers and each other. It also includes built-in checks to ensure the remote computers actually performed the calculations correctly.",
