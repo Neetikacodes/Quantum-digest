@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1793350020184",
+    "title": "Towards quantum computing Feynman diagrams in hybrid qubit-oscillator devices",
+    "summary": "Researchers have found a way to use standard laboratory measurements from hybrid quantum devices to directly calculate complex particle physics equations known as Feynman diagrams. This technique could soon allow scientists to simulate advanced quantum field theories with high accuracy, even when accounting for real-world equipment errors.",
+    "tag": "quantum simulation",
+    "link": "https://doi.org/10.22331/q-2026-10-28-2252",
+    "date": "2026-10-30T08:47:00.184Z"
+  },
+  {
     "id": "e1793263280261",
     "title": "Quantum Formalism and Quantum Computing: What Can They Actually Solve in Economics and Finance?",
     "summary": "While mathematical techniques borrowed from quantum physics are already useful on regular computers for finance, true quantum computers have not yet proven they can beat standard computers at economic tasks. However, future quantum computers could still pose an earlier threat to financial cybersecurity than they do to complex calculations like pricing financial derivatives.",
