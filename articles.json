@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1793435686798",
+    "title": "Quantum AI‐Driven Cognitive Computing",
+    "summary": "Researchers developed a new hybrid quantum-AI system that combines human-like reasoning with transparent decision-making to improve human-machine collaboration. Tests show this approach makes quantum AI systems faster, more accurate, and easier to understand in practical, everyday tasks.",
+    "tag": "quantum artificial intelligence",
+    "link": "https://doi.org/10.1002/9781394386413.ch5",
+    "date": "2026-10-31T08:34:46.798Z"
+  },
+  {
     "id": "e1793350020184",
     "title": "Towards quantum computing Feynman diagrams in hybrid qubit-oscillator devices",
     "summary": "Researchers have found a way to use standard laboratory measurements from hybrid quantum devices to directly calculate complex particle physics equations known as Feynman diagrams. This technique could soon allow scientists to simulate advanced quantum field theories with high accuracy, even when accounting for real-world equipment errors.",
