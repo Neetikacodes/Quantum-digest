@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1793525119116",
+    "title": "Perspectives on Cryptographically Relevant Quantum Computing: Integer Factoring, Discrete Logarithm Problems",
+    "summary": "This paper reviews the mathematical foundations of the quantum algorithms that pose a major future threat to standard internet encryption. It also discusses the ongoing engineering and error-correction challenges involved in eventually building a quantum computer powerful enough to break current security systems.",
+    "tag": "quantum cryptography",
+    "link": "https://doi.org/10.65908/gja.2026.8668.1078",
+    "date": "2026-11-01T09:25:19.116Z"
+  },
+  {
     "id": "e1793435686798",
     "title": "Quantum AI‐Driven Cognitive Computing",
     "summary": "Researchers developed a new hybrid quantum-AI system that combines human-like reasoning with transparent decision-making to improve human-machine collaboration. Tests show this approach makes quantum AI systems faster, more accurate, and easier to understand in practical, everyday tasks.",
