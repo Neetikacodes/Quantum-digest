@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794041868402",
+    "title": "Quantum Compiler Design for Fault-Tolerant Quantum Computing — E8 Intelligence Research",
+    "summary": "Future quantum computers will need specialized software translators that organize error-correction tasks alongside regular calculations to prevent data loss. This paper outlines a comprehensive blueprint for designing these essential compilers across the entire computer system.",
+    "tag": "quantum compilation",
+    "link": "https://doi.org/10.5281/zenodo.23979029",
+    "date": "2026-11-07T08:57:48.402Z"
+  },
+  {
     "id": "e1793957629089",
     "title": "MagicFlow: Breaking the Magic State Bottleneck for Scalable Fault-Tolerant Quantum Computing",
     "summary": "Future quantum computers require special resource states that currently waste a tremendous amount of hardware capacity and processing time during production. A new management system called MagicFlow fixes these inefficiencies by intelligently sharing hardware and dynamically adapting workflows, making the creation of these vital states drastically more efficient.",
