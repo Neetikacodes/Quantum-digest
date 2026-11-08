@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794129244659",
+    "title": "Adaptive error management for fault-tolerant quantum computing across hardware-level suppression, system-level diagnosis, and real-time decoding",
+    "summary": "Quantum computers must rapidly correct growing errors to remain reliable, but current methods struggle to keep up as systems scale. This paper suggests combining hardware protection, error diagnosis, and real-time decoding into a single, AI-driven control system to solve the problem efficiently.",
+    "tag": "error correction",
+    "link": "https://doi.org/10.1007/s44464-026-00050-8",
+    "date": "2026-11-08T09:14:04.659Z"
+  },
+  {
     "id": "e1794041868402",
     "title": "Quantum Compiler Design for Fault-Tolerant Quantum Computing — E8 Intelligence Research",
     "summary": "Future quantum computers will need specialized software translators that organize error-correction tasks alongside regular calculations to prevent data loss. This paper outlines a comprehensive blueprint for designing these essential compilers across the entire computer system.",
