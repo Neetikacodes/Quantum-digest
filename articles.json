@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794305183362",
+    "title": "Majorana Braiding as Non‑Abelian Anyon Exchange in Topological Quantum Computing — E8 Intelligence Research",
+    "summary": "This paper explores Microsoft's approach to topological quantum computing by swapping special quasiparticles like tying knots to protect stored information. It connects the mathematical rules of these particle swaps to fundamental geometric symmetries that naturally resist errors.",
+    "tag": "topological computing",
+    "link": "https://doi.org/10.5281/zenodo.24029646",
+    "date": "2026-11-10T10:06:23.362Z"
+  },
+  {
     "id": "e1794218265432",
     "title": "Quantum physics, Cosmology, Quantum computing",
     "summary": "A researcher proposes a new theoretical framework that treats information as the fundamental building block of reality, viewing the universe's origin similarly to a computer booting up. However, the paper is purely philosophical and does not present practical advancements in quantum computing hardware or software.",
