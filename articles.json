@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794389888860",
+    "title": "First-principle predictions of fragmentation functions via quantum computing",
+    "summary": "Researchers developed a new computer method for simulating how subatomic particles break apart and form new matter, demonstrating the concept by running simulations on classical computers. This breakthrough paves the way for future quantum computers to solve complex physics problems that are currently too difficult for standard technology.",
+    "tag": "quantum algorithms",
+    "link": "https://doi.org/10.22323/1.541.0093",
+    "date": "2026-11-11T09:38:08.860Z"
+  },
+  {
     "id": "e1794305183362",
     "title": "Majorana Braiding as Non‑Abelian Anyon Exchange in Topological Quantum Computing — E8 Intelligence Research",
     "summary": "This paper explores Microsoft's approach to topological quantum computing by swapping special quasiparticles like tying knots to protect stored information. It connects the mathematical rules of these particle swaps to fundamental geometric symmetries that naturally resist errors.",
