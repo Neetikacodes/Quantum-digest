@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794477502042",
+    "title": "Quantum Computing, Blockchain, and Artificial Intelligence for Cyber Resilience",
+    "summary": "This paper reviews how quantum computing, blockchain, and artificial intelligence play completely different roles in cybersecurity rather than serving as interchangeable tools. It provides a practical framework and architecture for combining these technologies effectively while avoiding common hype and hidden failure points.",
+    "tag": "cyber resilience",
+    "link": "https://doi.org/10.5281/zenodo.24098394",
+    "date": "2026-11-12T09:58:22.042Z"
+  },
+  {
     "id": "e1794389888860",
     "title": "First-principle predictions of fragmentation functions via quantum computing",
     "summary": "Researchers developed a new computer method for simulating how subatomic particles break apart and form new matter, demonstrating the concept by running simulations on classical computers. This breakthrough paves the way for future quantum computers to solve complex physics problems that are currently too difficult for standard technology.",
