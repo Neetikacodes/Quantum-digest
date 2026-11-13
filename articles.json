@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794563171641",
+    "title": "The Observer State: Conditional Implications of Observer-State-Dependent Coherence for Quantum Computing",
+    "summary": "{\"summary\": \"This speculative paper explores how human mental states might theoretically improve",
+    "tag": "quantum",
+    "link": "https://doi.org/10.5281/zenodo.24144886",
+    "date": "2026-11-13T09:46:11.641Z"
+  },
+  {
     "id": "e1794477502042",
     "title": "Quantum Computing, Blockchain, and Artificial Intelligence for Cyber Resilience",
     "summary": "This paper reviews how quantum computing, blockchain, and artificial intelligence play completely different roles in cybersecurity rather than serving as interchangeable tools. It provides a practical framework and architecture for combining these technologies effectively while avoiding common hype and hidden failure points.",
