@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794647262151",
+    "title": "An ML-based hybrid task scheduler for classical–quantum computing environments using real graph-derived workloads",
+    "summary": "Researchers built a machine-learning system to decide whether computing tasks should run on traditional computers or quantum processors. Their approach outperformed existing methods by significantly reducing wait times and improving overall system efficiency.",
+    "tag": "task scheduling",
+    "link": "https://doi.org/10.1007/s11227-026-08987-4",
+    "date": "2026-11-14T09:07:42.151Z"
+  },
+  {
     "id": "e1794563171641",
     "title": "The Observer State: Conditional Implications of Observer-State-Dependent Coherence for Quantum Computing",
     "summary": "{\"summary\": \"This speculative paper explores how human mental states might theoretically improve",
