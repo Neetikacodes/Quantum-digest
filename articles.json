@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794912763561",
+    "title": "Advancements in Topological Quantum Computing through Majorana 1 Quantum Chip and Quasiparticle Control — E8 Intelligence Research",
+    "summary": "A new quantum chip has been announced that successfully creates and controls specific particle states to advance a more stable approach to quantum computing. This hardware milestone uses geometric principles to build more reliable quantum gates and protect information from environmental noise.",
+    "tag": "topological hardware",
+    "link": "https://doi.org/10.5281/zenodo.24240737",
+    "date": "2026-11-17T10:52:43.561Z"
+  },
+  {
     "id": "e1794735493129",
     "title": "Fault-tolerant quantum computing with high-rate symplectic double codes",
     "summary": "{\"summary\": \"Researchers have developed a more efficient way to prepare and protect quantum data using compact error-correcting codes, significantly reducing the extra hardware needed for reliable quantum computers. This breakthrough",
