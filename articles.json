@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1794997411161",
+    "title": "Quantum Computing and the Race to Protect Digital Trust",
+    "summary": "Companies are not yet struggling to transition to quantum-safe security, but rather failing to keep track of where their current vulnerable encryption is being used. This invisible digital exposure leaves sensitive data at serious risk from future quantum computers.",
+    "tag": "cybersecurity risk",
+    "link": "https://doi.org/10.1007/979-8-8688-3159-1_18",
+    "date": "2026-11-18T10:23:31.161Z"
+  },
+  {
     "id": "e1794912763561",
     "title": "Advancements in Topological Quantum Computing through Majorana 1 Quantum Chip and Quasiparticle Control — E8 Intelligence Research",
     "summary": "A new quantum chip has been announced that successfully creates and controls specific particle states to advance a more stable approach to quantum computing. This hardware milestone uses geometric principles to build more reliable quantum gates and protect information from environmental noise.",
