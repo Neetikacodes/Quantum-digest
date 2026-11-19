@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1795084296288",
+    "title": "Enhancing Quantum Computing Reliability Through Advanced Quantum Error Correction Techniques — E8 Intelligence Research",
+    "summary": "Recent advances in error correction techniques help protect fragile quantum information from environmental interference and natural calculation errors. These improvements make quantum computers significantly more reliable for practical use.",
+    "tag": "error correction",
+    "link": "https://doi.org/10.5281/zenodo.24300815",
+    "date": "2026-11-19T10:31:36.288Z"
+  },
+  {
     "id": "e1794997411161",
     "title": "Quantum Computing and the Race to Protect Digital Trust",
     "summary": "Companies are not yet struggling to transition to quantum-safe security, but rather failing to keep track of where their current vulnerable encryption is being used. This invisible digital exposure leaves sensitive data at serious risk from future quantum computers.",
