@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1795169541958",
+    "title": "Full-stack analog Gaussian optical quantum computing platform with one hundred inputs",
+    "summary": "Researchers have built a high-speed, programmable quantum computing system using light with one hundred inputs that can be easily accessed through the cloud. This breakthrough makes large-scale quantum information processing much more practical and sets the stage for future advancements.",
+    "tag": "optical hardware",
+    "link": "https://doi.org/10.1103/mz47-v4fr",
+    "date": "2026-11-20T10:12:21.958Z"
+  },
+  {
     "id": "e1795084296288",
     "title": "Enhancing Quantum Computing Reliability Through Advanced Quantum Error Correction Techniques — E8 Intelligence Research",
     "summary": "Recent advances in error correction techniques help protect fragile quantum information from environmental interference and natural calculation errors. These improvements make quantum computers significantly more reliable for practical use.",
