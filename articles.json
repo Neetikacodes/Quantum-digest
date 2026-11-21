@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1795255112517",
+    "title": "Quantum Computing-Enabled Ab Initio Molecular Dynamics Simulations",
+    "summary": "Researchers developed a hybrid quantum-classical method that successfully uses quantum computers to simulate the realistic movement and behavior of molecules in liquid water. This breakthrough proves that today's quantum hardware can be practically applied to complex chemistry simulations.",
+    "tag": "molecular dynamics",
+    "link": "https://doi.org/10.1021/acs.jctc.6c01546",
+    "date": "2026-11-21T09:58:32.517Z"
+  },
+  {
     "id": "e1795169541958",
     "title": "Full-stack analog Gaussian optical quantum computing platform with one hundred inputs",
     "summary": "Researchers have built a high-speed, programmable quantum computing system using light with one hundred inputs that can be easily accessed through the cloud. This breakthrough makes large-scale quantum information processing much more practical and sets the stage for future advancements.",
