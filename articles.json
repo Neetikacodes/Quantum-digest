@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1795341445241",
+    "title": "Impact of Quantum Computing on Novel Drug Discovery An Exhaustive Review",
+    "summary": "Traditional drug discovery is a slow and expensive process because predicting how complex molecules interact requires immense computing power. By harnessing quantum physics, researchers can model biological systems much more accurately and significantly speed up the creation of new medicines.",
+    "tag": "drug discovery",
+    "link": "https://doi.org/10.1201/9781003660071-15",
+    "date": "2026-11-22T09:57:25.241Z"
+  },
+  {
     "id": "e1795255112517",
     "title": "Quantum Computing-Enabled Ab Initio Molecular Dynamics Simulations",
     "summary": "Researchers developed a hybrid quantum-classical method that successfully uses quantum computers to simulate the realistic movement and behavior of molecules in liquid water. This breakthrough proves that today's quantum hardware can be practically applied to complex chemistry simulations.",
