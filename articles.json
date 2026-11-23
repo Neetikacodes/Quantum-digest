@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1795431376475",
+    "title": "Topological Quantum Computing: Anyon Insights for Robust Qubit Architectures and Braid Group Dynamics — E8 Intelligence Research",
+    "summary": "Researchers are studying a special type of particle to build quantum computers that are much better at protecting information from errors. By twisting these particles around each other in specific patterns, future computers could perform calculations far more reliably.",
+    "tag": "quantum hardware",
+    "link": "https://doi.org/10.5281/zenodo.24418792",
+    "date": "2026-11-23T10:56:16.475Z"
+  },
+  {
     "id": "e1795341445241",
     "title": "Impact of Quantum Computing on Novel Drug Discovery An Exhaustive Review",
     "summary": "Traditional drug discovery is a slow and expensive process because predicting how complex molecules interact requires immense computing power. By harnessing quantum physics, researchers can model biological systems much more accurately and significantly speed up the creation of new medicines.",
