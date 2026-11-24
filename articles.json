@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1795524145090",
+    "title": "IOXHĒN ∿ QIR-32 - Quantum Noise, Kerr Nonlinearity, and Certified Adaptation in Hybrid Photonic Computing",
+    "summary": "Researchers designed a mathematical framework for a hybrid optical and electronic computing system that aims to deliver massive processing power using light. The study carefully analyzes how signal noise and physical limitations restrict how deep and reliable these calculations can be.",
+    "tag": "photonic hardware",
+    "link": "https://doi.org/10.5281/zenodo.24440752",
+    "date": "2026-11-24T12:42:25.090Z"
+  },
+  {
     "id": "e1795431376475",
     "title": "Topological Quantum Computing: Anyon Insights for Robust Qubit Architectures and Braid Group Dynamics — E8 Intelligence Research",
     "summary": "Researchers are studying a special type of particle to build quantum computers that are much better at protecting information from errors. By twisting these particles around each other in specific patterns, future computers could perform calculations far more reliably.",
