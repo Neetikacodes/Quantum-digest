@@ -1,5 +1,13 @@
 [
   {
+    "id": "e1795691366342",
+    "title": "TensorCircuit-NG: A universal, composable, and scalable platform for quantum computing and quantum simulation",
+    "summary": "Researchers have built a new software platform that combines quantum computing with artificial intelligence and high-performance machine learning tools. This system makes it much easier to simulate complex quantum physics and train hybrid quantum-classical algorithms efficiently on large computer clusters.",
+    "tag": "software platform",
+    "link": "https://doi.org/10.1088/2058-9565/aec6d4",
+    "date": "2026-11-26T11:09:26.342Z"
+  },
+  {
     "id": "e1795606171667",
     "title": "Geometric Harmony in Quantum Mechanics: Unpacking Fundamental Constants and Topological Quantum Computing — E8 Intelligence Research",
     "summary": "This paper explores how fundamental physical constants might connect to geometric patterns and higher-dimensional symmetries. The findings could offer new ways to understand and design advanced quantum computing systems.",
